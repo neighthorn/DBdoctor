@@ -2,7 +2,7 @@
 Supplementary Material for the paper "DBdoctor: A Fine-grained and Non-intrusive Performance Diagnosis Platform for Databases".
 
 
-## Industrial Applicability and Public Artifacts
+## Industrial Applicability
 
 To confirm the industrial applicability of **DBdoctor**, we provide the official certification documents issued by the **China Academy of Information and Communications Technology (CAICT)**, which is the most widely recognized and authoritative database product certification organization in China.
 
@@ -10,7 +10,7 @@ The certification documents are provided in the following files:
 - [**Original Document - Certification of SQL Quality Management Platform Capability.pdf**](https://github.com/neighthorn/DBdoctor/blob/main/Original%20Document%20-%20Certification%20of%20SQL%20Quality%20Management%20Platform%20Capability.pdf)
 - [**Translated Version - Certification of SQL Quality Management Platform Capability.pdf**](https://github.com/neighthorn/DBdoctor/blob/main/Translated%20Version%20-%20Certification%20of%20SQL%20Quality%20Management%20Platform%20Capability.pdf)
 
----
+
 
 ## Public Probe Examples
 
